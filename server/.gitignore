@@ -1,5 +1,2 @@
-# Ignore node_modules for the server
 node_modules/
-
-# Ignore the .env file for the server
 .env
